@@ -7,4 +7,4 @@
 	<li> 😄 Pronouns: Meow/ meow </li>
 	<li> ⚡ Fun fact: meow meow </li>
 </ul>
-<img src="https://i.pinimg.com/originals/6c/c4/a5/6cc4a5725b805ad019c2de8a0f959b84.gif" alt="Donkey">
+<img src="https://steampunklibrarianblog.files.wordpress.com/2022/10/giphy-1.gif?w=480" alt="Donkey">

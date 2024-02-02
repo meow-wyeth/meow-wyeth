@@ -7,4 +7,4 @@
 	<li> 😄 Pronouns: Meow/ meow </li>
 	<li> ⚡ Fun fact: meow meow </li>
 </ul>
-<img src="https://liberalarts.tamu.edu/wp-content/uploads/2021/07/giphy-1.gif" alt="People Walking GIF">
+<img src="https://i.pinimg.com/originals/bf/d6/2c/bfd62c044e36f2a2a28567b8f236d647.gif" alt="People Walking GIF">

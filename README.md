@@ -7,4 +7,4 @@
 	<li> 😄 Pronouns: Meow/ meow </li>
 	<li> ⚡ Fun fact: meow meow </li>
 </ul>
-<img src="https://gifdb.com/images/high/shrek-donkey-no-deal-revvvc55b3ir9rgd.gif" alt="People Walking GIF">
+<img src="https://liberalarts.tamu.edu/wp-content/uploads/2021/07/giphy-1.gif" alt="People Walking GIF">

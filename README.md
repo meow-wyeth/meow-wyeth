@@ -7,5 +7,5 @@
 	<li> 😄 Pronouns: Meow/ meow </li>
 	<li> ⚡ Fun fact: meow meow </li>
 </ul>
-<img src="https://media.baamboozle.com/uploads/images/145484/1634721834_476616_gif-url.gif" alt="Donkey" style="width:856px; height: 475px;">
+<img src="https://i.redd.it/dye318nrz7c91.jpg" alt="Donkey" style="width:856px; height: 475px;">
               
